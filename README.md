@@ -1,2 +1,0 @@
-# Codsoft
-ML internship
